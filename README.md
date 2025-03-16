@@ -1,8 +1,8 @@
-# 🔧 Automação de Infraestrutura no Linux (IaC)
+# Automação de Infraestrutura no Linux (IaC)
 
 Este repositório contém um **script de Infraestrutura como Código (IaC)** para configurar automaticamente **usuários, grupos, diretórios e permissões** em sistemas Linux. Com este script, é possível provisionar um ambiente padronizado e pronto para uso em novas máquinas virtuais.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Criação automática de usuários
 - Configuração de grupos de usuários
@@ -11,7 +11,7 @@ Este repositório contém um **script de Infraestrutura como Código (IaC)** par
 - Execução rápida e reutilizável
 
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Shell Script (Bash)
 - Linux (Ubuntu)
